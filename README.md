@@ -14,7 +14,9 @@ The project investigates several key questions about the housing market:
 # 📂 Dataset
 
 Property.csv
+
 The dataset contains property sales information including:
+
 | Feature      | Description                            |
 | ------------ | -------------------------------------- |
 | Suburb       | Location of property                   |
