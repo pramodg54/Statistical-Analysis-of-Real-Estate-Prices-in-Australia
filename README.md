@@ -13,6 +13,7 @@ The project investigates several key questions about the housing market:
 
 # 📂 Dataset
 
+Property.csv
 The dataset contains property sales information including:
 | Feature      | Description                            |
 | ------------ | -------------------------------------- |
@@ -43,13 +44,13 @@ The following steps were performed before statistical analysis:
 # 📈 Statistical Methods Used
 The project applies several statistical techniques:
 
-
-
-
-
-
-
-
+| Method                        | Purpose                                           |
+| ----------------------------- | ------------------------------------------------- |
+| One-Sample T-Test             | Test claims about average property prices         |
+| Independent Two-Sample T-Test | Compare average prices between groups             |
+| Binomial Probability          | Estimate likelihood of property features          |
+| Two-Way ANOVA                 | Evaluate the impact of location and property type |
+| p-value Interpretation        | Support business decision-making                  |
 
 # 🔬 Key Analyses Performed
   1️⃣ Price Assumption Testing
